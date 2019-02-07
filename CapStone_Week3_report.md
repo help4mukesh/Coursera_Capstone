@@ -22,6 +22,9 @@
   to get good sense of their Location.
   
   
+  How to Extract Data. 
+  Below Notebook is used to extract data (First part of Notebook)
+  https://github.com/help4mukesh/Coursera_Capstone/blob/master/DSCapstone.ipynb
   
   
      
