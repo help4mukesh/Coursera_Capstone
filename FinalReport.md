@@ -34,7 +34,7 @@
    #### Neigbourhood with Low density for coffee Places:
    ![Image of Yaktocat](https://github.com/help4mukesh/Coursera_Capstone/blob/master/Prospects_Table.png)
 
-  #### Suggestions for New Coffee Places:
+  #### Suggestions for New Coffee Places (with existing coffee Shops around):
   ![Image of Yaktocat](https://github.com/help4mukesh/Coursera_Capstone/blob/master/Prospects.png)
   
   ### Discussion
