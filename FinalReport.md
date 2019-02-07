@@ -24,18 +24,29 @@
   
   
   ### Methodology
-     Using Python Notebook (Panda & Follium) we will create dataset for Existing coffee shops and Neigbourhood 
-     in the City of Toronto. We will then create density map to find low density zones. Also we mark these
-     neigbourhood with existing coffee shops in that area.
+     Using Python Notebook (Panda & Follium) we will create dataset for Existing coffee shops and 
+     Neigbourhood in the City of Toronto. We will then create density map to find low density zones.
+     Also we mark these neigbourhood with existing coffee shops in that area.
   
   
   ### Results
-  
+   
+   #### Neigbourhood with Low density for coffee Places:
+   ![Image of Yaktocat](https://github.com/help4mukesh/Coursera_Capstone/blob/master/Prospects_Table.png)
+
+  #### Suggestions for New Coffee Places:
   ![Image of Yaktocat](https://github.com/help4mukesh/Coursera_Capstone/blob/master/Prospects.png)
   
   ### Discussion
+
+     Most of the neigbourhood with low density for coffeeShops are on the outskirts of the City. 
+     Also this report is based on FourSquare Data. 
+  
   
   ### Conclusion
+      Suggestion for places for new coffee shops within the city limits have been Provided. These suggestion 
+      are based number Coffee shops in that area. 
+      Further research around other parameters like type of neighbourhood,population etc is recommeded. 
      
     
  
