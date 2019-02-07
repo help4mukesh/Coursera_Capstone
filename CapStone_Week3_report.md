@@ -1,7 +1,7 @@
 ## Introduction/Business Problem
-     A Big coffee house chain want to open new Coffee shops in Toronto Canada. They are look for analytics to 
-     find density of coffee shops in the City. By looking at existing coffee shops they are looking a neighbourhood's
-     to open new branches.
+     A Big coffee house chain want to open new Coffee shops in Toronto Canada. They are look for analytics 
+     to find density of coffee shops in the City. By looking at existing coffee shops they are looking a
+     neighbourhood's to open new branches.
      
      
  ## Data 
