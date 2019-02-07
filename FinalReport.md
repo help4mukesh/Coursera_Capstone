@@ -6,7 +6,7 @@
      
  ## Data 
   
-  ### Neigbouhood Data:
+  #### Neigbouhood Data:
      Using Wikipedia & other Location data sources we will scrap all the postal codes(Neighbourhoods)
      of Toronto and geo Location data.
      
@@ -14,7 +14,7 @@
      Geo Location data  -  https://cocl.us/Geospatial_data
      
   
-  ### Coffee Places Data:
+  #### Coffee Places Data:
     We will be using local search-and-discovery service from Foursquare to grab all the 
     coffee places in Toronto
     
